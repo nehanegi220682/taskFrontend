@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+    width:100%;
+}
+
+.postCont{
+    padding-top: 10px;
+}
+
+.contentWrap{
+    margin-left: 10px;
+}
+.email{
+    color: gray;
+    margin-left: 10px;
+}
+
+.postWrap{
+display: flex;
+width:500px;
+margin-top: 10px;
+padding-left: 10px;
+
+}
+
+.info{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,36 @@
+.statusBox {
+  /* border-bottom: 1px solid blue; */
+  margin-left: 15px;
+  }
+
+  .status{
+    padding-bottom: 10px;
+    padding-right: 10px;
+  }
+  
+  .statusInput {
+    display: flex;
+    margin-top: 10px;
+    padding: 10px 20px 10px 0px;
+  }
+  .statusInput > input {
+    flex: 1;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+  }
+  .statusInput > input:focus {
+    outline: none;
+  }
+  .postBtn {
+    background-color:rgb(29, 155, 240) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 700 !important;
+    border-radius: 20px !important;
+    height: 36px !important;
+    margin-top: 5px !important;
+    margin-left: auto !important;
+    padding: 0px 14px;
+  }
+  

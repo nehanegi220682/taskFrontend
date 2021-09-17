@@ -1,0 +1,23 @@
+.feedCont{
+     width:100%;
+      padding:15px 0px;
+}
+
+.headingWrap{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    border-bottom: 1px solid #d3d3d36b;
+}
+
+.postStatus{
+    border-bottom: 1px solid #d3d3d36b;
+}
+.feed{
+    padding-left: 15px;
+}
+
+.logout{
+    margin-right: 15px;
+    cursor: pointer;
+}

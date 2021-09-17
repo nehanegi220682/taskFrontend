@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    width:100%;
+}
+
+.profileWrap{
+    display: flex;
+border-bottom:1px solid lightgray;
+width:500px;
+margin-top: 10px;
+padding-left: 10px;
+
+}
+
+.info{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.btnWrapper{
+    flex: 1;
+    text-align: end;
+}

@@ -1,0 +1,46 @@
+*{
+box-sizing: border-box;
+}
+.sidebar{
+    /* background-color:pink; */
+    padding: 10px 20px;
+    border-right: 1px solid #d3d3d36b;
+}
+
+.menuItem{
+    display:flex;
+    /* margin: 10px 15px; */
+    align-items: center;
+    cursor: pointer;
+    padding:10px;
+    margin-top: 10px;
+    transition-property: background-color;
+    transition-duration: 200ms;
+    width:150px;
+    /* width:100px; */
+}
+.menuItem:hover{
+    display:flex;
+    padding:10px;
+    align-items: center;
+    cursor: pointer;
+    width:150px;
+    background-color: #E7E7E8;
+    border-radius: 30px;
+}
+
+.menuText{
+    box-sizing: border-box;
+    font-size: 20px;
+    padding:0px 10px;
+    margin:0px;
+    margin-left:10px;
+}
+.activeMenuText{
+    box-sizing: border-box;
+    font-size: 20px;
+    padding:0px 10px;
+    margin:0px;
+    font-weight: bold;
+    margin-left:10px;
+}

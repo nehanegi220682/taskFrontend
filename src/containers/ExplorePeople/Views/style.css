@@ -1,0 +1,14 @@
+.heading{
+    border-bottom: 1px solid #d3d3d36b;
+    padding-left: 15px;
+}
+
+.feedCont{
+    width:100%;
+     /* border-left:1px solid #d3d3d36b; */
+     padding:15px 0px;
+}
+
+.profilesCont{
+    margin-top: 10px;
+}
